@@ -1,0 +1,7 @@
+{
+  "tesseract": {
+    "path": "/usr/bin/tesseract",
+    "options": "--oem 3 --psm 11 -c tessedit_char_whitelist=\"ABCDEFGHIJKLMNOPQRSTUVWXYZ?@ \""
+  },
+  "newline": "\n"
+}
